@@ -1,6 +1,10 @@
-# DigitasChallenge
+# DigitasChallenge UI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
+
+## How to execute the project?
+
+Run `npm install` to install any package that you might need. After completing this step, run `ng serve --o` to run the project by opening a blank browser tab.
 
 ## Development server
 
